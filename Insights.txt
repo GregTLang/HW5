@@ -1,0 +1,7 @@
+Pyber Insights
+
+1. Urban areas having twice as many of the total rides than Suburban and Rural areas combined (68.4% v 31.6%) has caused the total driver amount in urban areas to increase as drivers are flocking to where they will more easily find people looking for rides. 
+
+2. Lower numbers of drivers in rural and suburban areas (13.3% total drivers) along with proportionately higher demand (31.6% of total rides) leads to higher average fares compared to those in urban areas where there is more supply of drivers to meet the increased demand of rides (and therefor less surge charging).
+
+3. AS such, though the smallest portion of the population, Rural drivers make more (before driving costs) than Suburban and Urban drivers on average as they make up 0.8% of the total driver number and earn 6.8% of the total fares.
